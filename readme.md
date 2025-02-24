@@ -16,7 +16,6 @@ The Titanic dataset from Kaggle is used to predict survival outcomes based on pa
 | **Models Used**       | Logistic Regression, Support Vector Classifier (SVC), and Random Forest.                        |
 | **Best Model**        | Logistic Regression with ~82% accuracy on training data.                                        |
 | **Outputs**           | Final combined CSV, PDF report with insights, and a hosted Streamlit app.                       |
-| **Hosted App**        | [Titanic Survival Streamlit App](https://titanic-insights.streamlit.app/).                      |
 
 ---
 
@@ -52,9 +51,6 @@ The Titanic dataset from Kaggle is used to predict survival outcomes based on pa
    - Conducted in-depth analysis on the combined dataset.
    - Generated insights and visualizations for demographics, survival trends, ticket classes, and other features.
    - Saved insights and plots in a PDF report (`eda_report.pdf`).
-
-5. **Streamlit App**
-   - Developed a Streamlit app to visualize predictions and EDA insights interactively.
 
 ---
 
@@ -129,12 +125,6 @@ The Titanic dataset from Kaggle is used to predict survival outcomes based on pa
 
 ## Screenshots
 
-### Home Page
-![Landing Page](Screenshots/1.png)
-
-### Knowledge Base Generation
-![Knowledge Base Generation](Screenshots/2.png)
-
 ### Model Prediction Page
 ![Model Prediction](Screenshots/3.png)
 
@@ -145,13 +135,3 @@ The Titanic dataset from Kaggle is used to predict survival outcomes based on pa
 
 ### Plotting Data Page
 ![Model Prediction](Screenshots/5.png)
-
-## Deployed App
-
-Application Deploy using Streamlit community cloud.
-
- ```bash
-https://titanic-insights.streamlit.app/
-
-
-
